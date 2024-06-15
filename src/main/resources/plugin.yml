@@ -1,0 +1,8 @@
+name: RTP
+version: '${version}'
+main: me.developful.rtp.RTPPlugin
+api-version: '1.20'
+
+commands:
+  rtp:
+    description: Random teleport a player
